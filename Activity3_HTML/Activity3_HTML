@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Webpage</title>
+  <style>
+        .justified-text {
+            text-align: justify;
+        }
+    </style>
+</head>
+<body>
+   <div class="justified-text">
+    <a href="https://en.wikipedia.org/wiki/Wolf" target="_blank"><h2>Learn More About Wolves<h2/></a>
+
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Kolm%C3%A5rden_Wolf.jpg" alt="The wolf is the largest
+     extant member of the Canidae family,[31] and is further distinguished from coyotes and jackals by a broader snout,
+      shorter ears, a shorter torso and a longer tail.[32][31] It is slender and powerfully built, with a large, deeply
+       descending rib cage, a sloping back, and a heavily muscled neck.[33] The wolf's legs are moderately longer than 
+       those of other canids, which enables the animal to move swiftly, and to overcome the deep snow that covers most 
+       of its geographical range in winter.[34] The ears are relatively small and triangular.[33] The wolf's head is 
+       large and heavy, with a wide forehead, strong jaws and a long, blunt muzzle.[35] The skull is 230–280 mm 
+       (9–11 in) in length and 130–150 mm (5–6 in) in width.[36] The teeth are heavy and large, making them better 
+       suited to crushing bone than those of other canids, though they are not as specialized as those found in 
+       hyenas.[37][38] Its molars have a flat chewing surface, but not to the same extent as the coyote, whose 
+       diet contains more vegetable matter.[39] Females tend to have narrower muzzles and foreheads, thinner 
+       necks, slightly shorter legs, and less massive shoulders than males.[40]">
+</div>
+
+</body>
+</html>
